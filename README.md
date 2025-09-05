@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects and on a DSA roll!<br>👯 I’m looking to collaborate on open-source projects where I can contribute and learn from peers<br>🌱 I’m currently learning Django and other Python frameworks<br>
+🔭 I’m currently working on personal projects and on a DSA roll!<br>👯 I’m looking to collaborate on open-source projects where I can contribute and learn from peers<br>🌱 I’m currently exploring FastAPI and other Python frameworks<br>
 
 
 ## 🌐 Socials:
